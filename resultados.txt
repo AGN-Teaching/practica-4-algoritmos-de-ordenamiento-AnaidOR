@@ -1,0 +1,120 @@
+N: 5
+M: 30
+Promedio Insertion sort: 2.4e-07
+Promedio Merge sort: 2.31333e-06
+Promedio Quick sort: 5.66667e-07
+Promedio Selection sort: 3.6e-07
+Promedio Bubble sort: 3.9e-07
+Desviacion Insertion sort: 1.27072e-06
+Desviacion Merge sort: 1.22483e-05
+Desviacion Quick sort: 3.0003e-06
+Desviacion Selection sort: 1.90607e-06
+Desviacion Bubble sort: 2.06491e-06
+N: 10
+M: 30
+Promedio Insertion sort: 4.06667e-07
+Promedio Merge sort: 3.94333e-06
+Promedio Quick sort: 9.5e-07
+Promedio Selection sort: 7.6e-07
+Promedio Bubble sort: 8.63333e-07
+Desviacion Insertion sort: 2.15316e-06
+Desviacion Merge sort: 2.08786e-05
+Desviacion Quick sort: 5.02992e-06
+Desviacion Selection sort: 4.02394e-06
+Desviacion Bubble sort: 4.57105e-06
+N: 50
+M: 30
+Promedio Insertion sort: 3.44333e-06
+Promedio Merge sort: 2.627e-05
+Promedio Quick sort: 4.48333e-06
+Promedio Selection sort: 6.35667e-06
+Promedio Bubble sort: 1.19667e-05
+Desviacion Insertion sort: 1.82312e-05
+Desviacion Merge sort: 0.00013909
+Desviacion Quick sort: 2.37377e-05
+Desviacion Selection sort: 3.36563e-05
+Desviacion Bubble sort: 6.33593e-05
+N: 100
+M: 30
+Promedio Insertion sort: 9.39e-06
+Promedio Merge sort: 2.93033e-05
+Promedio Quick sort: 8.38e-06
+Promedio Selection sort: 2.11e-05
+Promedio Bubble sort: 3.93533e-05
+Desviacion Insertion sort: 4.97168e-05
+Desviacion Merge sort: 0.000155151
+Desviacion Quick sort: 4.43692e-05
+Desviacion Selection sort: 0.000111717
+Desviacion Bubble sort: 0.000208362
+N: 500
+M: 30
+Promedio Insertion sort: 0.00019702
+Promedio Merge sort: 0.00014366
+Promedio Quick sort: 5.32533e-05
+Promedio Selection sort: 0.00035326
+Promedio Bubble sort: 0.000755973
+Desviacion Insertion sort: 0.00104315
+Desviacion Merge sort: 0.00076063
+Desviacion Quick sort: 0.000281958
+Desviacion Selection sort: 0.00187039
+Desviacion Bubble sort: 0.00400262
+N: 1000
+M: 30
+Promedio Insertion sort: 0.00108669
+Promedio Merge sort: 0.00032133
+Promedio Quick sort: 0.00014596
+Promedio Selection sort: 0.00152746
+Promedio Bubble sort: 0.00329598
+Desviacion Insertion sort: 0.00575363
+Desviacion Merge sort: 0.00170133
+Desviacion Quick sort: 0.000772807
+Desviacion Selection sort: 0.00808737
+Desviacion Bubble sort: 0.0174511
+N: 5000
+M: 30
+Promedio Insertion sort: 0.019873
+Promedio Merge sort: 0.00131791
+Promedio Quick sort: 0.000745523
+Promedio Selection sort: 0.0325775
+Promedio Bubble sort: 0.0860073
+Desviacion Insertion sort: 0.105221
+Desviacion Merge sort: 0.00697789
+Desviacion Quick sort: 0.00394729
+Desviacion Selection sort: 0.172486
+Desviacion Bubble sort: 0.455379
+N: 10000
+M: 30
+Promedio Insertion sort: 0.0716715
+Promedio Merge sort: 0.00314329
+Promedio Quick sort: 0.0015156
+Promedio Selection sort: 0.133135
+Promedio Bubble sort: 0.349508
+Desviacion Insertion sort: 0.379476
+Desviacion Merge sort: 0.0166426
+Desviacion Quick sort: 0.00802457
+Desviacion Selection sort: 0.704903
+Desviacion Bubble sort: 1.85052
+N: 50000
+M: 30
+Promedio Insertion sort: 1.71812
+Promedio Merge sort: 0.0129782
+Promedio Quick sort: 0.00891152
+Promedio Selection sort: 3.01018
+Promedio Bubble sort: 9.5609
+Desviacion Insertion sort: 9.09686
+Desviacion Merge sort: 0.0687151
+Desviacion Quick sort: 0.0471834
+Desviacion Selection sort: 15.9378
+Desviacion Bubble sort: 50.6217
+N: 100000
+M: 30
+Promedio Insertion sort: 7.92596
+Promedio Merge sort: 0.0312316
+Promedio Quick sort: 0.0227214
+Promedio Selection sort: 13.8121
+Promedio Bubble sort: 46.2869
+Desviacion Insertion sort: 41.9652
+Desviacion Merge sort: 0.165361
+Desviacion Quick sort: 0.120302
+Desviacion Selection sort: 73.1302
+Desviacion Bubble sort: 245.073
