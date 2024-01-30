@@ -10,6 +10,7 @@ Este mismo programa nos permite calcular el promedio y la desviación estándar 
 
 
 ***Tabla de valores promedio de ejecución.***
+
 ![Alt text](image.png)
 
 
@@ -24,7 +25,9 @@ Estos datos representan el tiempo de ejecución en segundos de los algoritmos de
 
  Para tamaños pequeños de arreglos, todos los algoritmos tienen tiempos de ejecución bajos y similares, conforme aumenta el tamaño de los arreglos los algoritmos *merge sort y quick sort* tienden a tener tiempos de ejecución más bajos a comparación de *insertion sort, selection sort y bubblesort*. Como ya se habia mencionado *insertion sort, selection sort y bubblesort* tienden a un tiempo de ejecución de orden cuadrático, mientras que *merge sort y quick sort* tienden a n lg n lo que les permite manejar arreglos más grandes de manera más eficiente. Por lo que son los de mejor eficiencia para arreglos mas grandes, debido a sus bajos tiempos de ejecución en comparación a los otros tres.
 
-Tabla de desviación estándar 
+
+***Tabla de desviación estándar.***
+
 ![Alt text](image-1.png)
 
 La desviación estándar proporciona una medida de los tiempos de ejecución con sus promedios de tiempo, Valores más altos indican una mayor variabilidad en los datos. Se observa que de igual manera los algoritmos mege sort y quick sort tienen desviaciones estándar más bajas en comparación a las tres restantes, esto los hace más consistentes y tienen menor variabilidad entre ejecuciones
