@@ -83,7 +83,7 @@ void experimentos(int tam, int reps, bool ms, bool qs) {
             aux = copiar_arreglo(A, TAM_ARREGLO);
             cout << "Iniciando ordenamiento con MERGE SORT... " << flush;
             tiempo = ordenar_merge_sort(aux, TAM_ARREGLO);
-            cout << "\tOrdenado. ";
+            cout << "\tOrdenado MERGE. ";
             cout << "\tTiempo: " << tiempo.count() << "s" << endl;
             t_prom_ms = t_prom_ms + tiempo.count();
             delete [] aux;
@@ -93,7 +93,7 @@ void experimentos(int tam, int reps, bool ms, bool qs) {
             aux = copiar_arreglo(A, TAM_ARREGLO);
             cout << "Iniciando ordenamiento con QUICKSORT... " << flush;
             tiempo = ordenar_quicksort(aux, TAM_ARREGLO);
-            cout << "\tOrdenado. ";
+            cout << "\tOrdenado QUICK. ";
             cout << "\tTiempo: " << tiempo.count() << "s" << endl;
             t_prom_qs = t_prom_qs + tiempo.count();
             delete [] aux;
