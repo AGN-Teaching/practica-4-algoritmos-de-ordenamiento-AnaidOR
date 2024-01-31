@@ -40,6 +40,6 @@ Se procedió a graficar los resultados arrojados por nuestro programa comparando
 * Los resultados experimentales confirman las diferencias de eficiencia entre los algoritmos de ordenamiento estudiados. Los algoritmos de complejidad n log n (*merge sort y quicksort*) tienden a mostrar tiempos de ejecución más bajos en comparación con los algoritmos n^2(*insertion sort, selection sort, bubblesort*), especialmente para arreglos de mayor tamaño.
 * Se observa que los algoritmos de complejidad n log n tienden a tener desviaciones estándar más bajas, lo que indica una mayor consistencia en sus tiempos de ejecucion, incluso al aumento del tamañoo del arreglo.
 * El tamaño del arreglo influye directamente con su tiempo de ejecucion,  ya que en los algoritmos con complejidad n^2 cada elemento debe compararse y moverse,, lo que lleva a un mayor numero de opercaciones, mientras que los algoritmos con complejidad n log n tienen un rendimiento mas eficiente, con la division y combinacion de los elementos. 
-* Tamaños mas grandes de arreglos conllevarian mucho tiempo de ejecucion,debido a su crecimiento exponencial, para algoritmos como *insertion sort, selection sort, bubblesort*, por lo que no es posible registrar los resultados en un plazo corto de tiempo. 
+* Tamaños mas grandes de arreglos implican mucho tiempo de ejecucion,debido a su crecimiento exponencial, para algoritmos como *insertion sort, selection sort, bubblesort*, por lo que no es posible registrar los resultados en un plazo corto de tiempo. 
 
 
